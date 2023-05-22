@@ -1,4 +1,4 @@
-
+# Week-1 : 5th May to 12th May 
 - Learned about Tortoise SVN.
 - Learned about Visual SVN server (local server). 
 = The thought process behind these two things to learn was to extract the data from “R - Revision 83941: /trunk/src/library/tools/po” and to store it in a database and create something like “R SVN build status/” containing only the details of translations.
