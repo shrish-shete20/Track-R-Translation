@@ -1,4 +1,4 @@
-# Week 2: 12th May to 19th May 
+# Week 2: 13th May to 20th May 
 - Learned about GitHub Actions.
 - Learned about GitHub pages. Understood Github pages are only restricted to hosting static websites. Capable of serving static websites from GitHub's CDN (content delivery network (CDN)) only. It can be triggered manually or automatically but cannot be used to automate tasks.
 - Binged many Youtube tutorials to understand yaml files required for GitHub workflows.
