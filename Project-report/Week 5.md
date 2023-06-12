@@ -1,5 +1,5 @@
 # Week 5 : 5th June to 12th June
-- Added Library Language Statistics folder "https://github.com/shrish-shete20/weblate/tree/main/Library%20Language%20Statistics" and Recent Changes files "https://github.com/shrish-shete20/weblate/tree/main/Recent%20Changes"
+- Added Library Language Statistics folder "https://github.com/shrish-shete20/weblate/tree/main/Library%20Language%20Statistics" and Recent Changes folder "https://github.com/shrish-shete20/weblate/tree/main/Recent%20Changes"
 - Library Language Statistics : 
     - Contains R code which gives statistics about each language in each library. Statistics include the name of Library, component (i.e 'R' or 'C' or 'English'),Language available to tranlate in the library, Total no of words to translate, Translated words, fuzzy messgaes, and untranslated words.
     - Created a csv file for Library Language Statistics                        "https://github.com/shrishshete20/weblate/blob/main/Library%20Language%20Statistics/Library%20Language%20Statistics.csv" 
