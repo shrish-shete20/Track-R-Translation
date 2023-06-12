@@ -1,1 +1,11 @@
-
+# Week 5 : 5th June to 12th June
+- Added Library Language Statistics folder "https://github.com/shrish-shete20/weblate/tree/main/Library%20Language%20Statistics" and Recent Changes files "https://github.com/shrish-shete20/weblate/tree/main/Recent%20Changes"
+- Library Language Statistics : 
+    - Contains R code which gives statistics about each language in each library. Statistics include the name of Library, component (i.e 'R' or 'C' or 'English'),Language available to tranlate in the library, Total no of words to translate, Translated words, fuzzy messgaes, and untranslated words.
+    - Created a csv file for Library Language Statistics                        "https://github.com/shrishshete20/weblate/blob/main/Library%20Language%20Statistics/Library%20Language%20Statistics.csv" 
+- Recent Changes : 
+    - Contains R code that creates 2 csv files. First one contains all the strings that are Translated completely . Second one contains all the strings that are marked for edit and has not been be reviewed yet.
+    - Created New Translations csv file : "https://github.com/shrish-shete20/weblate/blob/main/Recent%20Changes/New%20Translation.csv" .This file contains units of strings that are translated completely and are not required to be reviewed as per the translator. This file also contains username of the translator, language of the translation, the library in which tranlations took place ,the unit of the translated string ,date and time of the translation.
+    - Created Marked for edit csv file : "https://github.com/shrish-shete20/weblate/blob/main/Recent%20Changes/Marked%20for%20Edit.csv" . This file contains units of strings that are units of strings that are translated , but marked for edit and are required to be reviewed. This file also contains username of the translator, language of the translation, the library in which tranlations took place ,the unit of the translated string ,date and time of the translation. With the help of this file , It will become easier for the new user to review the translation with the help of units.
+    - Created Website.R : This file contains R code that is required to get the weblate url of the translation from the unit. It will be helpful in the dashboard that If anyone wants to see the translation this code will work and the user will be reverted to the wesite.
+- In the next week, I will work on implementing a notification system that will notify users when new translations are available.
