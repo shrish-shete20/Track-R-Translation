@@ -1,1 +1,11 @@
-
+# Week 6 : 13th June to 18th June(Short Week)
+- Changed "https://github.com/shrish-shete20/weblate/blob/main/Language%20Statisitics/Languages_Statistics.R" from Python to R language.
+- Added github action workflow file to "https://github.com/shrish-shete20/weblate/tree/main/User%20Statistics" ,"https://github.com/shrish-shete20/weblate/tree/main/Recent%20Changes","https://github.com/shrish-shete20/weblate/tree/main/Library%20Language%20Statistics", "https://github.com/shrish-shete20/weblate/tree/main/Language%20Statisitics"
+- Created "https://github.com/shrish-shete20/weblate/tree/main/Calculations" folder that contains R code which sends messages,csv to slack channels using **slackr** package.
+- Calculations Folder contains :
+    - "https://github.com/shrish-shete20/weblate/blob/main/Calculations/Weblate%20Statistics.R" This R code connects slack channel naming "#gsoc-translation" to the R code. This code also makes 2 csv files, first one contains changes happened at the weblate ,specifically messages that are "Marked for Edit" ,"String updated in the repository" ,"New Translation","Translation changed". Second one contains New Contributors added on that day.
+    - "https://github.com/shrish-shete20/weblate/blob/main/Calculations/translationswithr" This file contains the details required to setup connection to #gsoc-translations channel on slack.
+    -"https://github.com/shrish-shete20/weblate/blob/main/Calculations/slackwithr" This file contains the details required to setup connection to #r-translations on my own channel.(Not required)
+- For Slack connections to setup, a new app is created called "Translations with R" is made. For this app to integrate with the slack channel, app approval is required from R Contributors owners.
+- Created Github Actions workflow file to "https://github.com/shrish-shete20/weblate/tree/main/Calculations", so that it file will run each day at 12:40 GMT and send data automatically to the slack channel.
+- Next week creation of flexdashboard will be started. 
