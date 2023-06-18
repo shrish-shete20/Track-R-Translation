@@ -1,4 +1,5 @@
 # Week 6 : 13th June to 18th June(Short Week)
+- A small problem resolved in the Github Actions workflow file of "https://github.com/shrish-shete20/translations" and "https://github.com/shrish-shete20/rcontribution-messages".
 - Changed "https://github.com/shrish-shete20/weblate/blob/main/Language%20Statisitics/Languages_Statistics.R" from Python to R language.
 - Added github action workflow file to "https://github.com/shrish-shete20/weblate/tree/main/User%20Statistics" ,"https://github.com/shrish-shete20/weblate/tree/main/Recent%20Changes","https://github.com/shrish-shete20/weblate/tree/main/Library%20Language%20Statistics", "https://github.com/shrish-shete20/weblate/tree/main/Language%20Statisitics"
 - Created "https://github.com/shrish-shete20/weblate/tree/main/Calculations" folder that contains R code which sends messages,csv to slack channels using **slackr** package.
