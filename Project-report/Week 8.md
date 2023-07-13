@@ -1,4 +1,4 @@
-# Week 7 : 27th June to 3rd July
+# Week 8 : 27th June to 3rd July
 - Created a leaderboard Dashboard "https://github.com/shrish-shete20/weblate/blob/main/New-Dashboard.Rmd" using CSS and JavaScript and reactable library.
 - Explored about DT library(data table),but it doesn't provide custom CSS and JavaScript.(Hence dropped)
 - Added gauge component which would show that is there a emergency of the users to be active.
